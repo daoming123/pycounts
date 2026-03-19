@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 def plot_words(word_counts, n=10):
     """Plot a bar chart of word counts."""
     top_n_words = word_counts.most_common(n)
