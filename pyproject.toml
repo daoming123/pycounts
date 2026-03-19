@@ -1,16 +1,15 @@
 [tool.poetry]
-name = "pycounts"
-version = "0.1.0"
-description = "Calculate word counts in a text file!"
 authors = ["Tomas Beuzen"]
+description = "Calculate word counts in a text file!"
 license = "MIT"
+name = "pycounts"
 readme = "README.md"
+version = "0.1.0"
 
 [tool.poetry.dependencies]
+matplotlib = ">=3.10"
 python = "^3.12"
-matplotlib = "^3.10.8"
-
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
