@@ -11,3 +11,5 @@ contributing.md
 conduct.md
 autoapi/index
 ```
+```{include} ../CHANGELOG.md
+```

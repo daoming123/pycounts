@@ -4,7 +4,7 @@ description = "Calculate word counts in a text file!"
 license = "MIT"
 name = "pycounts-daoming123"
 readme = "README.md"
-version = "0.1.0"
+version = "0.2.0"
 
 # 1. packages 自己占一块，括号要及时关上
 packages = [
